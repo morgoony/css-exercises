@@ -5,7 +5,6 @@ body {
 img {
   width: 100px;
   height: 100px;
-  max-width: 200px;
 }
 
 .title {
@@ -41,6 +40,7 @@ img {
   flex-direction: column;
   flex: 1;
   align-items: center;
+  max-width: 200px;
 }
 
 .text {
